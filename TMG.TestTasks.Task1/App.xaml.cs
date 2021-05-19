@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace TMG.TestTasks
+namespace TMG.TestTasks.Task1
 {
     /// <summary>
     /// Interaction logic for App.xaml

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TMG.TestTasks.Task3": {
+      "commandName": "Project",
+      "commandLineArgs": "ru, en"
+    }
+  }
+}
